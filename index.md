@@ -1,5 +1,5 @@
 
-## Code for Journalists
+## Code for Journalists 
 
 You can use the [editor on GitHub](https://github.com/alastairotter/code-for-journalists/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
