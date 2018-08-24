@@ -3,7 +3,8 @@ layout: default
 site: Code for Journalists
 decription: An introduction to useful code for journalists
 ---
-## Code for Journalists 
+
+Not all journalists need to learn how to code but, like most things today, the ability to do even basic coding very often puts you at an advantage. Learning to code well can take time but learning the basics is fairly simple. And even a few cosing skills can help you in your job.
 
 You can use the [editor on GitHub](https://github.com/alastairotter/code-for-journalists/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
